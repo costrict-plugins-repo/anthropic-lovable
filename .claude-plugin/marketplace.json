@@ -1,0 +1,15 @@
+{
+  "name": "lovable",
+  "description": "Official Lovable plugin for Claude. Build, run and grow real apps from Claude, Claude Code and Cowork: the Lovable MCP server plus 13 skills with credit and publish safety built in.",
+  "owner": {
+    "name": "Lovable",
+    "url": "https://lovable.dev"
+  },
+  "plugins": [
+    {
+      "name": "lovable",
+      "source": "./",
+      "description": "Build, run and grow real apps from Claude with Lovable. Wraps the official Lovable MCP server with 13 skills and three commands."
+    }
+  ]
+}
